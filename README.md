@@ -1,3 +1,3 @@
-# Learn Deep Learning
-This repository is made for my journey notes learning deep learning. Every deep learning algorithm that I just learned I will save here
+# Learn Text Processing
+This repository is made for notes on journeys to learn text processing, any learning related to text processing will be stored here
  
